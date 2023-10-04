@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Par.Interviews.ConnectionStringProvider", "Par.Interviews.ConnectionStringProvider\Par.Interviews.ConnectionStringProvider.csproj", "{7F1CB72E-298B-4615-8B6D-5E187FAA1AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Par.Interviews.ConnectionStringProvider.Tests", "Par.Interviews.ConnectionStringProvider.Tests\Par.Interviews.ConnectionStringProvider.Tests.csproj", "{BF7F5275-9AED-43A6-B57F-6084B12B4DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1CB72E-298B-4615-8B6D-5E187FAA1AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1CB72E-298B-4615-8B6D-5E187FAA1AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1CB72E-298B-4615-8B6D-5E187FAA1AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1CB72E-298B-4615-8B6D-5E187FAA1AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7F5275-9AED-43A6-B57F-6084B12B4DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7F5275-9AED-43A6-B57F-6084B12B4DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7F5275-9AED-43A6-B57F-6084B12B4DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7F5275-9AED-43A6-B57F-6084B12B4DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5D1D62-DC5F-4D7E-90B8-2FA570188CCA}
+	EndGlobalSection
+EndGlobal
